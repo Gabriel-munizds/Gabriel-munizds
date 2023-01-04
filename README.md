@@ -1,7 +1,7 @@
 
   <p>
   
-     💻 Desenvolvedor Back-end em formação
+     💻 Engenheiro da Computação em formação
   
      📚 Discente dos cursos de Ciência e Tecnologia (1º ciclo) e Engenharia da Computação (2º ciclo) da Universidade Federal do Maranhão (UFMA)
 
