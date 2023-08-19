@@ -1,11 +1,11 @@
 
   <p>
   
-     💻 Engenheiro da Computação em formação
+     💻 Engenheiro da Computação em formação;
   
-     📚 Discente dos cursos de Ciência e Tecnologia (1º ciclo) e Engenharia da Computação (2º ciclo) da Universidade Federal do Maranhão (UFMA)
+     📚 Bacharel em Ciência e Tecnologia e discente do curso de Engenharia da Computação, ambos na Universidade Federal do Maranhão (UFMA);
 
-     🧠 Entusiasta de tecnologias e ciências em geral
+     🧠 Entusiasta de tecnologias e ciências em geral;
       
      👨‍🎓 Entre minhas softskills destacam-se: comunicação, foco em resultados, assiduidade e facilidade no trabalho em equipe. Sou uma pessoa determinada, empenhada, comprometida, de fácil aprendizagem e de rápida adaptação.
     
